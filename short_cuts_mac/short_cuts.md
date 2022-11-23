@@ -1,4 +1,4 @@
-#Short cuts in iOS
+# Short cuts in iOS
 
 ## Just powered on the pc
 alt + space = finder
